@@ -19,8 +19,8 @@ function Banner() {
                   'A decadência das rosas 🌹',
                   2000
                 ]}
-                speed={10}
-                className='text-red-600'
+                speed={20}
+                className='text-white text-2xl'
                 wrapper='span'
             repeat={Infinity}
         />
